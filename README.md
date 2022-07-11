@@ -43,4 +43,8 @@ control+c
 
 # 5. Webseite aufrufen
 http://localhost:8080/
+
+# 6. Login Daten
+Name: admin
+Password: admin
 ```
