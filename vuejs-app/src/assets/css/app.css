@@ -1,0 +1,33 @@
+#app {
+	font-family: 'Avenir', Helvetica, Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-align: center;
+	color: #2c3e50;
+	margin-top: 60px;
+}
+html,
+body {
+	background-color: #ffe986;
+}
+.character-quote-div{
+	text-align: left;
+}
+.character-card-div{
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color: #f3f3f3;
+}
+.logo-img{
+	width:40%;
+}
+.character-img{
+	width:30%;
+}
+.mlr-25-p{
+	margin-left: 25%;
+	margin-right: 25%;
+}
+.width-50-p{
+	width: 50%;
+}
